@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=message-akunna&show_icons=true&locale=en" alt="message-akunna" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=message-akunna&show_icons=true&locale=en&layout=compact" alt="message-akunna" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=message-akunna&show_icons=true&locale=en&layout=compact" alt="message-akunna" /></p>
