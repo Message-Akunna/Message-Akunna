@@ -2,9 +2,11 @@
 <h3 align="center">A passionate frontend/fullstack developer from Abuja, Nigeria</h3>
 
 <h4 align="left">About Me </h4>
-<code align="left">I'm a solutions-driven and highly technical full-stack developer with more than 3 years of hands-on experience designing, developing, and implementing web applications and solutions using a range of technologies and programming languages.<br></code>
 
-<code align="left">I have solid knowledge of front-end development languages including JavaScript, HTML5, CSS. Use of Bootstrap framework to design mobile-friendly web interface, proficient in the use of JavaScript UI framework and libraries like VueJs and ReactJs. Extensive ability to write solid back-end codes with PHP and optimized databases with MySQL to develop customer-focused websites.</code>
+<code align="left"> I'm a solutions-driven and highly technical full-stack developer with more than 3 years of hands-on experience designing, developing, and implementing web applications and solutions using a range of technologies and programming languages.</code>
+
+
+<code align="left"> I have solid knowledge of front-end development languages including JavaScript, HTML5, CSS. Use of Bootstrap framework to design mobile-friendly web interface, proficient in the use of JavaScript UI framework and libraries like VueJs and ReactJs. Extensive ability to write solid back-end codes with PHP and optimized databases with MySQL to develop customer-focused websites.</code>
 
 <code align="left">Dedicated to constantly improving tools and infrastructure to maximize productivity and minimize system downtime. Effective communicator with excellent deductive reasoning, problem-solving abilities, and time management skills. Innate leadership capabilities with a proactive nature and well developed analytical reasoning abilities.</code>
 
