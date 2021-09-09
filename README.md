@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/MessageAkunna" target="blank"><img src="https://img.shields.io/twitter/follow/messageakunna?logo=twitter&style=for-the-badge" alt="Message Akunna Twitter profile" /></a> </p>
 
-### Blogs posts
+<!-- ### Blogs posts  -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
