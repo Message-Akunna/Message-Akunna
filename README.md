@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Message Akunna</h1>
 <h3 align="center">A passionate frontend/fullstack developer from Abuja, Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=message-akunna&label=Profile%20views&color=0e75b6&style=flat" alt="message-akunna" /> </p>
+<h4 align="left">About Me </h4>
+<p align="left">Solutions-driven and highly technical full-stack developer with more than 3 years of hands-on experience designing, developing, and implementing web applications and solutions using a range of technologies and programming languages.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=message-akunna" alt="message-akunna" /></a> </p>
+Solid knowledge of front-end development languages including JavaScript, HTML5, CSS. Use of Bootstrap framework to design mobile-friendly web interface, proficient in the use of JavaScript UI framework and libraries like VueJs and ReactJs. Extensive ability to write solid back-end codes with PHP and optimized databases with MySQL to develop customer-focused websites.
 
-<p align="left"> <a href="https://twitter.com/akunnamessage" target="blank"><img src="https://img.shields.io/twitter/follow/akunnamessage?logo=twitter&style=for-the-badge" alt="akunnamessage" /></a> </p>
+Dedicated to constantly improving tools and infrastructure to maximize productivity and minimize system downtime. Effective communicator with excellent deductive reasoning, problem-solving abilities, and time management skills. Innate leadership capabilities with a proactive nature and well developed analytical reasoning abilities.</p>
+
+<p align="left"> <a href="https://twitter.com/messageakunna" target="blank"><img src="https://img.shields.io/twitter/follow/akunnamessage?logo=twitter&style=for-the-badge" alt="Message Akunna Twitter profile" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
